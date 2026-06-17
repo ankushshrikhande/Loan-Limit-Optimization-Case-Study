@@ -84,17 +84,6 @@ The dataset contains customer-level loan information:
 
 ---
 
-## 📁 Project Structure
-
-```
-loan-limit-optimization-case-study/
-│
-├── data/
-├── notebook/
-├── images/
-├── README.md
-```
-
 ---
 
 ## ▶️ How to Run
